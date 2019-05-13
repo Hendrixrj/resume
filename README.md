@@ -56,6 +56,23 @@ _Senior Software Engineer, May 2008 - Mar 2009_
 Developer role starting from use case analysis, term estimation, implementation from the Data Model layer to interface. Designing highly complex systems that support platforms, with an emphasis on employee scalability and reporting management, has worked on technologies such as Java, ActionScript, and Junit among other internal frameworks.
 </p>
 
+Education
+----------------------------
+<p align="justify">
+ Universidade Federal do Rio de Janeiro
+Universidade Federal do Rio de Janeiro
+Degree NameMBA TI Executivo Field Of StudyTechnology Information
+Dates attended or expected graduation 2008 – 2010
+</p>
+
+<p align="justify"> 
+Estácio
+Degree NameAnalise e Projeto de Sistemas Internet Field Of StudyInternet
+Dates attended or expected graduation 2002 – 2004
+
+Activities and Societies: Analise, Modelagem, Desenvolvimento e Testes, tendo assim conhecimento abrangente da área de Desenvolvimento de Software como um todo.
+</p>
+
 Courses
 ----------------------------
 
