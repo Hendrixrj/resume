@@ -1,7 +1,9 @@
 Hendrigo Cunha / Florianópolis, SC - Brazil  / [Linkedin](https://www.linkedin.com/in/hendrigocunha/) / [Github](https://github.com/Hendrixrj/resume)
 ==========================================================================================================
 <p align="justify">
-  I am a developer recognized for taking on the most challenging task with a "nice and helpful presence" and for going out of the way to learn new technical areas. With twenty and two years of professional experience in development of software for distributed cloud services using Python on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in database and distributed cloud products, working to Infra Structure area about two years.
+Over 20 years of experience in different positions in the software development lifecycle. I have worked as a software engineer, requirements analyst, Desernvolvedor, Data Analyst.My focus is to help organizations improve product development with expertise in lean and agile development. My focus is result - done is better than perfect. I have a protagonist attitude and I constantly leave my comfort zone. One of my main characteristics is empathy, which improves teamwork and relationships with stakeholders.
+
+Specialties: Systems Architecture, Development, Agile, Scalability, DevOps, TDD, Requirements analysis and product mapping.
 </p>
 
 Summary of Qualifications
@@ -9,33 +11,17 @@ Summary of Qualifications
 <ul>
   <li>
     <p align="justify">
-      Able to recognize code smells, deal with legacy code, develop software using 
-      evolutionary design, deal with awkward collaborations in code and manage a 
-      continuous deployment environment.
+      Development of systems in several languages: Java, Python, Ruby, PHP and Go.
     </p>
   </li>
   <li>
     <p align="justify">
-      MySQL, MongoDB and Redis development and administration including security,
-      monitoring, performance, and high availability.
+       Experience with Processes and Methodologies: Scrum, Agile, Product Management, Scrum Master.
     </p>
   </li>
   <li>
     <p align="justify">
-      Very diverse skill set including (but not limited to) software development,
-      Linux server administration, training/tutoring and big data analisys.
-    </p>
-  </li>
-  <li>
-    <p align="justify">
-      Able to work independently, recognizing patterns/problems and developing and
-      Implementing solutions while also able to collaborate with a team.
-    </p>
-  </li>
-  <li>
-    <p align="justify">
-      Experience as a developer has resulted in good problem solving skills, 
-      critical thinking skills, and patience.
+Knowledge of technologies / frameworks: Rest, Soap, Json, Struts, Spring, Hibernate, JPA, Log4j, Apache, Velocity, JQuery, Javascript, Swift, Shell Script (ss, awk, wc, bash), Flask, Django, ElasticSearch (indexing and querys). Database: Oracle 8i / 9i / 10i, SQL Server Enterprise, PostgreSQL 8.x and MySQL 4.1; Servers: Apache Tomcat, JBoss AS 3.x and 4.x, Nginx, Gunicorn and Jboss, Version control: CVS, Subversion (SVN) and Git; Repositories: Gitlab, Github. Monitoring tools: Graphana, StatsD, Jenkins, Zabbix, DataDog (metrics and dashboards), NewRelic and Devops: Puppet, Capistrano, Shell.
     </p>
   </li>
 </ul>
@@ -53,36 +39,37 @@ Professional Experience
 
 _Software Engineer, Jun 2017 - Present_
 <p align="justify">
-  So far I went through almost all the cycle of customer acquisition and engagement(sales, onboarding and accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesis with MVP. I have created and dealt with lots of reports including cap table, UK SH01, ASC 718. Moreover, I solved problems in the onboarding system by rewriting our onboarding tool completely and was able to cut the resource consumption by 80% and improve the speed by 250% by leveraging distributed computation improving customer experience and support happiness.
-  
-  On top of that, I helped design a tool to draft and send sales contracts and with that a payment tool capable of handling credit cards and ACH(American banks only) with which the company was able to charge more than $1M in in the first month and was a leader in a team responsible for creating a new product focused on startup founders which helped the company attract customers early. Currently, I'm working on the expense accounting team recreating a tool to generate expense reports such as the expense audit report and disclosures reports for our customers.
+Software factory with focus on Logistics of shipments, involving management, and analysis, requirements, stackholder and architecture support, modeling, database, development and reporting being responsible for the creation and development of internal products reimbursement Brazil and Mexico), knowing processes and optimizing actions.
 </p>
 
 ### Globo.com (Rio de Janeiro, Brazil)
 
 _Senior Software Engineer, Apr 2009 - Jun 2017_
 <p align="justify">
-  Middle member of the team that built DBaaS, an open source
-  Web app and API designed to manage databases on the cloud environment, 
-  similar to Amazon's RDS, but with NoSQL databases such as MongoDB and Redis. DBaaS releases globo.com database administrators and other infrastructure teams 
-  to spend time on real problems which led to reduction of errors, better usage of 
-  resources and drastic reduction in the time to create a new database.
+Development of large systems, in different languages and frameworks, from data model layer to interface, through infra and tests. Moving through the Systems Architecture, Sales Platform, Real-time Metrics and Infrastructure Analysis as a service.
 </p>
 
 ### Petrobrás (Rio de Janeiro, Brazil)
 
 _Senior Software Engineer, May 2008 - Mar 2009_
 <p align="justify">
-  Helped some friends with a B2B startup focused on out-of-the-box integration with ERP systems. 
-  We developed a mobile application to help managers with approval of purchase orders and others boring stuffs.
+Developer role starting from use case analysis, term estimation, implementation from the Data Model layer to interface. Designing highly complex systems that support platforms, with an emphasis on employee scalability and reporting management, has worked on technologies such as Java, ActionScript, and Junit among other internal frameworks.
 </p>
 
 Courses
 ----------------------------
 
-* Financial Markets by Yale University on Coursera. [Syllabus](https://www.coursera.org/learn/financial-markets-global/)
-* Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. [Syllabus](https://www.coursera.org/learn/cloud-computing)
-* Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. [Syllabus](https://www.coursera.org/learn/ml-foundations)
-* Cloud Computing Concepts, Part 1 by University of Illinois at Urbana-Champaign on Coursera. [Syllabus](https://www.coursera.org/learn/cloud-computing-2)
-* Testing & Refactoring Box Set by Industrial Logic. [Content](https://elearning.industriallogic.com/gh/submit?Action=AlbumContentsAction&album=trw&devLanguage=Java)
-* Continous Deployment by Industrial Logic. [Content](https://elearning.industriallogic.com/gh/submit?Action=AlbumContentsAction&album=continuousDeployment&devLanguage=Python)
+* Polytechnic Institute of Distance Learning - Certification Course in Linux
+* Quality Training in Customer Service
+* Certification in Network Technologies - Microsoft Certified System Engineer (MCSE):
+    * "Fundamentals of the Windows 2000 Environment"
+    * "Installing and Configuring Windows 2000"
+    * "Network Infrastructure Support"
+    * "Directory Services Support"
+    * "Planning and Configuring User Infrastructure"
+    * "Migration Strategy Project"
+    * "Deployment and Administration of the Exchange 2000 Server Environment"
+* UpTime Consultants - Advanced English, focus on
+* Conversation and Business, in progress.
+* Step 1 - Intermediate Spanish
+* Idiom Academy – Span
